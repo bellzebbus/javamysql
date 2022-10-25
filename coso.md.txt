@@ -1,0 +1,15 @@
+
+a ver la epe 2 y eva 2 seran hacer un coso que registre codigos de barra
+podemos usar wamp, samp, o la wea que queramos(DOCKER)
+
+para la bd si usamos wamp hay que ponerlo con utf-8 para tener ñ entre otras cosas 
+
+wa poner una guia de los pasos para conectar el java a la bd mysql porque sino se me olvida xD
+
+1.- abrir php my admin (si es que estamos en wamp)
+2.- creamos un repositorio conexion y una java class conectar para almacenar las weas
+	seguramente en el ip tenemos librerias que en la casa no asi que importante usar esta wea
+
+el resto esta documentado en el proyecto
+
+hay que bajar el conector y hacer la conexion desde netbeans
